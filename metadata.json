@@ -1,0 +1,6 @@
+{
+  "name": "CHIKU ELECTRONICS",
+  "description": "Premium AI-powered electronics retail store featuring smart shopping assistant, certified refurbished devices, product comparison, and administrative controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
